@@ -1,0 +1,136 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+h1{
+text-align:center;
+padding-top: 20px;
+opacity: 0.3;
+font-family: Orbitron;
+letter-spacing: 0.5cm;
+padding-left:20px;
+margin-bottom: 5px;
+margin-top:-22px;
+}
+#navbar{
+height:70px;
+background-color:white;
+opacity:0.8;
+font-family:Noto Sans HK;
+}
+a{
+    float:right;
+    text-decoration: none;
+    padding-right: 50px;
+    padding-top:25px;
+    color:black;
+    font-size: large;
+    font-family: Noto Sans HK;
+}
+a:hover{
+    color:rgb(219, 191, 119);
+    font-size:larger;
+}
+.content {
+    padding: 16px;
+  }
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  .Code{
+      background-color: black;
+      height:250px;
+      width:1519px;
+  }
+  .editior{
+    background-color:rgb(228, 125, 57);
+    height:100px;
+    width:1519px; 
+    border-bottom:1px solid white;
+  
+  }
+ 
+  .program{
+      background-color: rgb(31, 30, 30);
+      height:300px;
+      width:1269px;
+      padding-left: 250px;
+      padding-top: 190px;
+      padding-bottom:60px;
+      margin:0%;
+      border-bottom:1px solid white;
+
+  }
+  h2{
+      font-size: 500%;
+      font-family: Noto Sans HK;
+    color:darkgreen;
+  }
+  p{
+      font-size:150%;
+      font-family:Noto Sans HK;
+  }
+  .program1{
+    background-color: rgb(31, 30, 30);
+    height:300px;
+    width:1269px;
+    padding-left: 250px;
+    padding-top: 180px;
+    padding-bottom:60px;
+    margin:0%;
+    border-bottom:1px solid white;
+
+  }
+  h3{
+    font-size: 500%;
+    font-family: Noto Sans HK;
+    color:yellow;
+  }
+  .program2{
+    background-color: rgb(31, 30, 30);
+    height:350px;
+    width:1288px;
+    padding-left: 230px;
+    padding-top:170px;
+    margin:0%;
+    border-bottom:1px solid white;
+
+  }
+  h4{
+    font-size: 500%;
+    font-family: Noto Sans HK;
+    color:rgb(130, 0, 130); 
+  }
+  button{
+    cursor: pointer;
+    margin:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:25px;
+    padding-right:25px;
+    font-size:20px;
+    border-radius:20px;
+    border-color:rgb(19, 19, 170);
+  }
+  button:hover{
+    background-color:rgb(204, 145, 34);
+  }
+  .last{
+    background-color:black;
+    text-align: center;
+    padding-top:80px;
+  }
+  .icons{
+    padding-top:60px;
+    padding-bottom:150px;
+  }
+  .I{
+    cursor: pointer;
+    background-color:black;
+  }
+  
